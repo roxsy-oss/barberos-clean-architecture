@@ -1,0 +1,14 @@
+{
+  "name": "barberos-clean-architecture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BarberOS — Actividad #3: Clean Architecture aplicada a la regla BR-03",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "test": "node --test \"test/**/*.test.ts\"",
+    "demo": "node src/main.ts"
+  }
+}
