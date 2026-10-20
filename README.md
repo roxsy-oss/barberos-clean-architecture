@@ -4,7 +4,7 @@
 Materia: Frameworks y Arquitectura de · Profesor: Zabaleta Duran Adrián Rene
 Equipo: Pozas Gomez Fernando, expediente 333414. Juan Pablo Bolaños Rivera, expediente 326570. Julio Alberto Tecuapacho Velázquez, expediente 333364.
 
-```bash
+```bashh
 npm test          # 13 pruebas: el mismo caso de uso con el adapter en memoria y con el de archivo JSON
 npm run demo      # corre el caso de uso con el adapter en memoria
 npm run demo json # el mismo caso de uso guardando en data/citas.json
